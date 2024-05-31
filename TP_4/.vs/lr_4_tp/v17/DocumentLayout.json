@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{960B15A9-562D-49C4-8C16-3FFB46B9CE5C}|lr_4_tp\\lr_4_tp.vcxproj|C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\lr_4_tp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{960B15A9-562D-49C4-8C16-3FFB46B9CE5C}|lr_4_tp\\lr_4_tp.vcxproj|solutionrelative:lr_4_tp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960B15A9-562D-49C4-8C16-3FFB46B9CE5C}|lr_4_tp\\lr_4_tp.vcxproj|C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\lr_4_tp\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{960B15A9-562D-49C4-8C16-3FFB46B9CE5C}|lr_4_tp\\lr_4_tp.vcxproj|solutionrelative:lr_4_tp\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960B15A9-562D-49C4-8C16-3FFB46B9CE5C}|lr_4_tp\\lr_4_tp.vcxproj|C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\lr_4_tp\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{960B15A9-562D-49C4-8C16-3FFB46B9CE5C}|lr_4_tp\\lr_4_tp.vcxproj|solutionrelative:lr_4_tp\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960B15A9-562D-49C4-8C16-3FFB46B9CE5C}|lr_4_tp\\lr_4_tp.vcxproj|C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\lr_4_tp\\stack_node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{960B15A9-562D-49C4-8C16-3FFB46B9CE5C}|lr_4_tp\\lr_4_tp.vcxproj|solutionrelative:lr_4_tp\\stack_node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960B15A9-562D-49C4-8C16-3FFB46B9CE5C}|lr_4_tp\\lr_4_tp.vcxproj|C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\lr_4_tp\\inverse_array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{960B15A9-562D-49C4-8C16-3FFB46B9CE5C}|lr_4_tp\\lr_4_tp.vcxproj|solutionrelative:lr_4_tp\\inverse_array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960B15A9-562D-49C4-8C16-3FFB46B9CE5C}|lr_4_tp\\lr_4_tp.vcxproj|C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\lr_4_tp\\inverse_array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{960B15A9-562D-49C4-8C16-3FFB46B9CE5C}|lr_4_tp\\lr_4_tp.vcxproj|solutionrelative:lr_4_tp\\inverse_array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\lr_4_tp\\main.cpp",
+              "RelativeDocumentMoniker": "lr_4_tp\\main.cpp",
+              "ToolTip": "C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\lr_4_tp\\main.cpp",
+              "RelativeToolTip": "lr_4_tp\\main.cpp",
+              "ViewState": "AQIAABkBAAAAAAAAAAAAAPMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T20:43:49.285Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stack.h",
+              "DocumentMoniker": "C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\lr_4_tp\\stack.h",
+              "RelativeDocumentMoniker": "lr_4_tp\\stack.h",
+              "ToolTip": "C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\lr_4_tp\\stack.h",
+              "RelativeToolTip": "lr_4_tp\\stack.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-11T12:01:19.525Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stack.cpp",
+              "DocumentMoniker": "C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\lr_4_tp\\stack.cpp",
+              "RelativeDocumentMoniker": "lr_4_tp\\stack.cpp",
+              "ToolTip": "C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\lr_4_tp\\stack.cpp",
+              "RelativeToolTip": "lr_4_tp\\stack.cpp",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwCUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T07:13:42.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "stack_node.h",
+              "DocumentMoniker": "C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\lr_4_tp\\stack_node.h",
+              "RelativeDocumentMoniker": "lr_4_tp\\stack_node.h",
+              "ToolTip": "C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\lr_4_tp\\stack_node.h",
+              "RelativeToolTip": "lr_4_tp\\stack_node.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-11T10:54:49.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "inverse_array.cpp",
+              "DocumentMoniker": "C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\lr_4_tp\\inverse_array.cpp",
+              "RelativeDocumentMoniker": "lr_4_tp\\inverse_array.cpp",
+              "ToolTip": "C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\lr_4_tp\\inverse_array.cpp",
+              "RelativeToolTip": "lr_4_tp\\inverse_array.cpp",
+              "ViewState": "AQIAADQAAAAAAAAAAAAiwEsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T20:10:09.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "inverse_array.h",
+              "DocumentMoniker": "C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\lr_4_tp\\inverse_array.h",
+              "RelativeDocumentMoniker": "lr_4_tp\\inverse_array.h",
+              "ToolTip": "C:\\Users\\Quisede\\source\\repos\\lr_4_tp\\lr_4_tp\\inverse_array.h",
+              "RelativeToolTip": "lr_4_tp\\inverse_array.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T19:52:39.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
