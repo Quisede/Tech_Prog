@@ -1,0 +1,111 @@
+﻿  inverse_array.cpp
+  main.cpp
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\main.cpp(38,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\main.cpp(19,6): warning C4101: choice_5: неиспользованная локальная переменная
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\main.cpp(17,6): warning C4101: choice_3: неиспользованная локальная переменная
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(22,18): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(22,18):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\main.cpp(25,12):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "Stack<int>"
+  	C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(21,30):
+  	во время компиляции функции-члена класс шаблон "void Stack<int>::fill_random(void)"
+  		C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\main.cpp(136,25):
+  		см. первую ссылку на "Stack<int>::fill_random" в "main"
+  
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(32,22): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(32,22): warning C4244:         with
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(32,22): warning C4244:         [
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(32,22): warning C4244:             T=int
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(32,22): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(36,22): warning C4244: =: преобразование "float" в "T", возможна потеря данных
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(36,22): warning C4244:         with
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(36,22): warning C4244:         [
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(36,22): warning C4244:             T=int
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(36,22): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(27,18): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(27,18):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\main.cpp(50,16):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<int>"
+  	C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(26,30):
+  	во время компиляции функции-члена класс шаблон "void Array<int>::fill_random(void)"
+  		C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\main.cpp(51,25):
+  		см. первую ссылку на "Array<int>::fill_random" в "main"
+  
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(37,18): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(37,18): warning C4244:         with
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(37,18): warning C4244:         [
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(37,18): warning C4244:             T=int
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(37,18): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(42,18): warning C4244: =: преобразование "float" в "T", возможна потеря данных
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(42,18): warning C4244:         with
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(42,18): warning C4244:         [
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(42,18): warning C4244:             T=int
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(42,18): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(32,18): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(32,18): warning C4244:         with
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(32,18): warning C4244:         [
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(32,18): warning C4244:             T=float
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(32,18): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(37,18): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(37,18): warning C4244:         with
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(37,18): warning C4244:         [
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(37,18): warning C4244:             T=float
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(37,18): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(48,18): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(48,18): warning C4244:         with
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(48,18): warning C4244:         [
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(48,18): warning C4244:             T=float
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(48,18): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(71,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(71,12):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\main.cpp(106,24):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<std::string>"
+  	C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\inverse_array.cpp(64,39):
+  	во время компиляции функции-члена класс шаблон "void Array<std::string>::fill_random_letter_2(void)"
+  		C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\main.cpp(107,35):
+  		см. первую ссылку на "Array<std::string>::fill_random_letter_2" в "main"
+  
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(28,22): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(28,22): warning C4244:         with
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(28,22): warning C4244:         [
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(28,22): warning C4244:             T=float
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(28,22): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(32,22): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(32,22): warning C4244:         with
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(32,22): warning C4244:         [
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(32,22): warning C4244:             T=float
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(32,22): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(39,24): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(39,24): warning C4244:         with
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(39,24): warning C4244:         [
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(39,24): warning C4244:             T=float
+C:\Users\Quisede\source\repos\lr_4_tp\lr_4_tp\stack.cpp(39,24): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+  stack.cpp
+  Создание кода...
+  lr_4_tp.vcxproj -> C:\Users\Quisede\source\repos\lr_4_tp\ARM64\Debug\lr_4_tp.exe
